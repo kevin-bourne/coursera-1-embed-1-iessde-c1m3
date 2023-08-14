@@ -5,3 +5,4 @@ all:
 
 clean:
 	rm -f main.out main.map main.nm main.asm
+
